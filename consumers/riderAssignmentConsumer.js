@@ -1,4 +1,4 @@
-const { kafka } = require("./client");
+const { kafka } = require("../client");
 
 const groupId = "rider-assignment-processor";
 
