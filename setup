@@ -1,0 +1,5 @@
+Run Kafka and Zookeeper using:
+
+- docker-compose up -d
+
+
